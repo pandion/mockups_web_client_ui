@@ -415,7 +415,7 @@
     </control>
     <control controlID="155" controlTypeID="com.balsamiq.mockups::Paragraph" x="714" y="533" w="409" h="63" measuredW="200" measuredH="140" zOrder="81" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>File%20Transfer%20-%20Version%3A%203.0.4%0ASend%20and%20receive%20files%20with%20your%20contacts.%0A%5BDisable%5D%20%20%20%5BUninstall%5D</text>
+        <text>File%20Transfer%20-%20Version%3A%203.0.4%0ASend%20and%20receive%20files%20with%20your%20contacts.%0A%5BEnable%5D%20%20%20%5BUninstall%5D</text>
       </controlProperties>
     </control>
     <control controlID="156" controlTypeID="com.balsamiq.mockups::Icon" x="649" y="612" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="82" locked="false" isInGroup="-1">

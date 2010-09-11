@@ -181,9 +181,9 @@
     </control>
     <control controlID="56" controlTypeID="com.balsamiq.mockups::Canvas" x="373" y="88" w="262" h="29" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <backgroundAlpha>0.5</backgroundAlpha>
+        <backgroundAlpha>1</backgroundAlpha>
         <borderStyle>none</borderStyle>
-        <color>13421772</color>
+        <color>8554646</color>
       </controlProperties>
     </control>
     <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="379" y="535" w="-1" h="-1" measuredW="176" measuredH="25" zOrder="35" locked="false" isInGroup="-1">
@@ -353,89 +353,41 @@
         <icon>RightFillTriangleIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="133" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="649" y="121" w="-1" h="-1" measuredW="194" measuredH="25" zOrder="69" locked="false" isInGroup="-1">
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::SubTitle" x="716" y="110" w="-1" h="-1" measuredW="233" measuredH="40" zOrder="69" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Extras%2C%20Modules%2C%20Directory</text>
+        <text>Sebastiaan%20Deckers</text>
       </controlProperties>
     </control>
-    <control controlID="134" controlTypeID="com.balsamiq.mockups::SearchBox" x="884" y="121" w="239" h="-1" measuredW="107" measuredH="25" zOrder="70" locked="false" isInGroup="-1">
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::Webcam" x="944" y="272" w="173" h="254" measuredW="177" measuredH="145" zOrder="70" locked="false" isInGroup="-1"/>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::Paragraph" x="654" y="272" w="266" h="227" measuredW="200" measuredH="140" zOrder="71" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>_Find%20modules_</text>
+        <text>Organization%3A%09Pandion%20Pte%20Ltd%0ARole%3A%09%09%09Founder%0A%20%0AGender%3A%09%09Male%0AMarital%20Status%3A%09Single%0ABirthday%3A%09%099th%20May%0A%20%0AXMPP%3A%09%09%5Bcbas@pandion.im%5D%0AEmail%3A%09%09%5Bcbas@pandion.im%5D%0A%20%0ALocation%3A%09%09Singapore%2C%20987000</text>
       </controlProperties>
     </control>
-    <control controlID="141" controlTypeID="com.balsamiq.mockups::Icon" x="649" y="329" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="71" locked="false" isInGroup="-1">
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::Webcam" x="654" y="111" w="56" h="55" measuredW="177" measuredH="145" zOrder="72" locked="false" isInGroup="-1"/>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::Label" x="716" y="143" w="-1" h="-1" measuredW="111" measuredH="25" zOrder="73" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>CalendarIcon%7Clarge</icon>
+        <italic>true</italic>
+        <text>cbas@pandion.im</text>
       </controlProperties>
     </control>
-    <control controlID="145" controlTypeID="com.balsamiq.mockups::Paragraph" x="714" y="330" w="409" h="63" measuredW="200" measuredH="140" zOrder="72" locked="false" isInGroup="-1">
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::TabBar" x="654" y="219" w="463" h="31" measuredW="354" measuredH="100" zOrder="74" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Agenda%20-%20Version%3A%201.0.1%0ATrack%20and%20share%20your%20calendar%20with%20team%20members.%0A%5BView%5D%20%20%20%5BInstall%5D</text>
+        <backgroundAlpha>1</backgroundAlpha>
+        <selectedIndex>1</selectedIndex>
+        <text>Stream%2C%20Profile%2C%20Chat%20History%2C%20System</text>
       </controlProperties>
     </control>
-    <control controlID="146" controlTypeID="com.balsamiq.mockups::Icon" x="649" y="409" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="73" locked="false" isInGroup="-1">
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::Map" x="654" y="499" w="266" h="97" measuredW="252" measuredH="222" zOrder="75" locked="false" isInGroup="-1"/>
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::Link" x="994" y="525" w="-1" h="-1" measuredW="71" measuredH="25" zOrder="76" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>MusicIcon%7Clarge</icon>
+        <text>Save%20as...</text>
       </controlProperties>
     </control>
-    <control controlID="147" controlTypeID="com.balsamiq.mockups::Paragraph" x="714" y="410" w="409" h="63" measuredW="200" measuredH="140" zOrder="74" locked="false" isInGroup="-1">
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::ButtonBar" x="654" y="176" w="-1" h="-1" measuredW="294" measuredH="31" zOrder="77" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>myTunes%20-%20Version%3A%201.4.3%0AStream%20music%20with%20your%20friends.%0A%5BView%5D%20%20%20%5BInstall%5D</text>
-      </controlProperties>
-    </control>
-    <control controlID="148" controlTypeID="com.balsamiq.mockups::Icon" x="649" y="489" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="75" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>ImageIcon%7Clarge</icon>
-      </controlProperties>
-    </control>
-    <control controlID="149" controlTypeID="com.balsamiq.mockups::Paragraph" x="714" y="490" w="409" h="63" measuredW="200" measuredH="140" zOrder="76" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Themes%20-%20Version%3A%202.1.5%0AUse%20custom%20themes%20on%20your%20profile.%0A%5BView%5D%20%20%20%5BInstall%5D</text>
-      </controlProperties>
-    </control>
-    <control controlID="152" controlTypeID="com.balsamiq.mockups::Icon" x="649" y="569" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="77" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>GridIcon%7Clarge</icon>
-      </controlProperties>
-    </control>
-    <control controlID="153" controlTypeID="com.balsamiq.mockups::Paragraph" x="714" y="570" w="409" h="63" measuredW="200" measuredH="140" zOrder="78" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Tic%20Tac%20Toe%20-%20Version%3A%201.0.0%0APlay%20this%20classic%20with%20your%20contacts.%0A%5BView%5D%20%20%20%5BInstall%5D</text>
-      </controlProperties>
-    </control>
-    <control controlID="154" controlTypeID="com.balsamiq.mockups::Icon" x="649" y="649" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="79" locked="false" isInGroup="-1">
-      <controlProperties>
-        <icon>MicIcon%7Clarge</icon>
-      </controlProperties>
-    </control>
-    <control controlID="155" controlTypeID="com.balsamiq.mockups::Paragraph" x="714" y="650" w="409" h="63" measuredW="200" measuredH="140" zOrder="80" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Call%20Recorder%20-%20Version%3A%200.0.1%0ARecord%20any%20calls%20made%20with%20your%20contacts.%20Now%20supports%20video%21%0A%5BView%5D%20%20%20%5BInstall%5D</text>
-      </controlProperties>
-    </control>
-    <control controlID="160" controlTypeID="com.balsamiq.mockups::Paragraph" x="649" y="186" w="474" h="75" measuredW="200" measuredH="140" zOrder="81" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Categories%3A%0A%5BGames%5D%09%5BProductivity%5D%09%5BSocial%5D%09%09%5BDevelopment%5D%09%5BPhotos%5D%0A%5BNews%5D%09%09%5BFeatured%5D%09%09%5BMusic%5D%09%09%5BVOIP%5D%09%09%09%5BAccessibility%5D</text>
-      </controlProperties>
-    </control>
-    <control controlID="161" controlTypeID="com.balsamiq.mockups::Label" x="933" y="281" w="-1" h="-1" measuredW="59" measuredH="25" zOrder="82" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Sort%20by%3A</text>
-      </controlProperties>
-    </control>
-    <control controlID="162" controlTypeID="com.balsamiq.mockups::ComboBox" x="996" y="280" w="129" h="-1" measuredW="94" measuredH="72" zOrder="83" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Popularity%0ARating%0AMost%20recent</text>
-      </controlProperties>
-    </control>
-    <control controlID="165" controlTypeID="com.balsamiq.mockups::SubTitle" x="649" y="273" w="-1" h="-1" measuredW="212" measuredH="40" zOrder="84" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Featured%20Modules</text>
-      </controlProperties>
-    </control>
-    <control controlID="166" controlTypeID="com.balsamiq.mockups::Label" x="800" y="750" w="-1" h="-1" measuredW="173" measuredH="25" zOrder="85" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>1%20%5B2%5D%20%5B3%5D%20%5B4%5D%20%5B5%5D%20%5B6%5D%20%5B7%5D%20%5B8%5D%20%5B9%5D%20%5BNext%5D%20%3E</text>
+        <selectedIndex>-1</selectedIndex>
+        <text>Chat%2C%20Send%20File%2C%20Call%2C%20Video%20Call</text>
       </controlProperties>
     </control>
   </controls>
