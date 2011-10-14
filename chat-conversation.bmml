@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1395" measuredH="1177" mockupW="1012" mockupH="1154">
+<mockup version="1.0" skin="sketch" measuredW="1385" measuredH="1167" mockupW="1012" mockupH="1154">
   <controls>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="439" y="120" w="-1" h="-1" measuredW="159" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
@@ -22,9 +22,9 @@
         <text>Edit%20my%20profile</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Title" x="379" y="13" w="-1" h="-1" measuredW="147" measuredH="62" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Title" x="379" y="13" w="-1" h="-1" measuredW="169" measuredH="62" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Pandion</text>
+        <text>Tribe.im</text>
       </controlProperties>
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::SearchBox" x="635" y="44" w="252" h="-1" measuredW="69" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
